@@ -1,4 +1,6 @@
 # Google Engineering Practices Documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshuuji3%2Feng-practices.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshuuji3%2Feng-practices?ref=badge_shield)
+
 
 Google has many generalized engineering practices that cover all languages and
 all projects. These documents represent our collective experience of various
@@ -31,3 +33,6 @@ encourages you to share these documents. See
 https://creativecommons.org/licenses/by/3.0/ for more details.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshuuji3%2Feng-practices.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshuuji3%2Feng-practices?ref=badge_large)
