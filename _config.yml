@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+plugins:
+- jekyll-google-tag-manager
+google:
+  tag_manager:
+    container_id: GTM-PVPFC46R
