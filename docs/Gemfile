@@ -6,6 +6,7 @@ gem 'jekyll-theme-slate'
 group :jekyll_plugins do
   gem 'jekyll-analytics', git: 'https://github.com/shuuji3/jekyll-analytics.git', branch: 'feat/support-umami'
   gem 'jekyll-default-layout'
+  gem 'jekyll-github-metadata'
   gem 'jekyll-optional-front-matter'
   gem 'jekyll-readme-index'
   gem 'jekyll-relative-links'
