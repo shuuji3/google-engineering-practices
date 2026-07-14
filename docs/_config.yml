@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+repository: shuuji3/google-engineering-practices
 
 plugins:
   - jekyll-analytics
