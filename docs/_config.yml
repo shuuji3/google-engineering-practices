@@ -1,10 +1,10 @@
 theme: jekyll-theme-slate
-repository: shuuji3/google-engineering-practices
+url: "https://google-engineering-practices.translation.shuuji3.xyz"
+baseurl: ""
 
 plugins:
   - jekyll-analytics
   - jekyll-default-layout
-  - jekyll-github-metadata
   - jekyll-optional-front-matter
   - jekyll-readme-index
   - jekyll-relative-links
