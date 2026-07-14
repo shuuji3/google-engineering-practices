@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 url: "https://google-engineering-practices.translation.shuuji3.xyz"
 baseurl: ""
+repository: shuuji3/google-engineering-practices
 
 plugins:
   - jekyll-analytics
