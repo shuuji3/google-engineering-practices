@@ -2,6 +2,13 @@ theme: jekyll-theme-slate
 
 plugins:
   - jekyll-analytics
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
 
 jekyll_analytics:
   Umami:
