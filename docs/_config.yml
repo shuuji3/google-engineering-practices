@@ -1,2 +1,10 @@
 theme: jekyll-theme-slate
-google_analytics: GTM-PVPFC46R
+
+plugins:
+  - jekyll-analytics
+
+jekyll_analytics:
+  Umami:
+    website_id: "5a967cca-9fd9-4ec7-aac7-4bc809b4d126"
+    source: "https://umami.shuuji3.xyz/script.js"
+
